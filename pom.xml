@@ -31,8 +31,6 @@
 </dependency>
 
 
-<<<<<<< HEAD
-       
 
   </dependencies>
   
@@ -58,7 +56,5 @@
    </build>
    
    
-=======
-  </dependencies>
->>>>>>> refs/remotes/origin/master
+
 </project>
